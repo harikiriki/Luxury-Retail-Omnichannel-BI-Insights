@@ -76,3 +76,12 @@ SWITCH( TRUE(),
     LastCategory = "Ready-to-Wear", "Suggest: Silk Scarf Accessory",
     "Bestseller: Iconic Monogram Bag" -- Fallback for new clients
 )
+
+---
+
+## 🚀 5. How to Interact with this Project
+
+Because Power BI files (.pbix) contain complex data models and can be large, the project file is hosted on a secure SharePoint drive.
+
+1. **[Download the Omnichannel_Luxury_BI.pbix file here](https://politechnikawroclawska-my.sharepoint.com/:u:/g/personal/261824_student_pwr_edu_pl1/IQBBT6E7YoFRS601fs1PMPISAf211f4SdMJgYx2NC0Gw5NE?e=5GgkfF)** *(Direct download link).*
+2. Open the downloaded file using the free **Microsoft Power BI Desktop** application.
