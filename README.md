@@ -38,19 +38,22 @@ To ensure compliance with GDPR and corporate confidentiality, the entire dataset
 Designed for C-level executives to monitor macroeconomic indicators and omnichannel health.
 * **Key Metrics:** Total Revenue, Gross Profit Margin (%), ROPO Coefficient.
 * **Business Value:** Quantifies how digital touchpoints drive physical sales, enabling better allocation of marketing budgets.
-* *screen*
+* <img width="1955" height="1087" alt="Management_dashboard" src="https://github.com/user-attachments/assets/3ba7650c-5608-4bf4-9c3f-6b92f8db3e04" />
+
 
 ### B. Boutique Manager View (Operational Excellence)
 Built to help store managers optimize daily operations and monitor the effectiveness of their sales team.
 * **Key Metrics:** Revenue per Advisor, Client Portfolio Structure (VIP vs. Occasional), Merchandising Mix (Treemap).
 * **Business Value:** Instantly identifies if advisors are focusing on high-value clients and helps adjust Visual Merchandising based on real-time category performance.
-* *screen*
+* <img width="1950" height="1094" alt="Manager_dashboard" src="https://github.com/user-attachments/assets/154d4789-828b-48ca-9adf-cdf089fd56b0" />
+
 
 ### C. Clienteling 360° View (Mobile Interface)
 A mobile-optimized dashboard designed for frontline workers (Sales Advisors) to use on mobile devices during client interactions.
 * **Key Features:** Customer Lifetime Value (CLV), Digital Footprint tracking.
 * **Business Value:** Eliminates information asymmetry. The advisor knows exactly what the client browsed online yesterday and receives an automated "Next Best Action" recommendation.
-* *screen*
+* <img width="394" height="704" alt="SalesMan_dashboard" src="https://github.com/user-attachments/assets/baefa00d-97b4-4271-9fc7-f8252ac42658" />
+
 
 ---
 
