@@ -76,7 +76,7 @@ SWITCH( TRUE(),
     LastCategory = "Ready-to-Wear", "Suggest: Silk Scarf Accessory",
     "Bestseller: Iconic Monogram Bag" -- Fallback for new clients
 )
-
+```
 ---
 
 ## 🚀 5. How to Interact with this Project
